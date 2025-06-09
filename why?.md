@@ -1,0 +1,5 @@
+- Simple and easy to understand
+- Effective for classification problems
+- No training phase needed (lazy learner)
+- Works well with small to medium datasets
+- Adapts to data changes easily
